@@ -1,0 +1,12 @@
+{
+    "test_loss": 0.2283412516117096,
+    "test_accuracy": 0.9206589460372925,
+    "test_auc": 0.8411566019058228,
+    "timestamp": "20241106_195343",
+    "model_path": "../models/deepfake_detector_20241106_195343.h5",
+    "training_params": {
+        "batch_size": 32,
+        "initial_epochs": 10,
+        "learning_rate": 0.001
+    }
+}
